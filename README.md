@@ -4,3 +4,5 @@ CE5-DET is a dataset of surface defects on ceramic tableware collected in a real
 The dataset collects surface defect data for ceramic bowls, ceramic cups, and ceramic plates and is labelled via the YOLO format. 
 There are 6432 samples (including flipped images) in the training set and 201 samples each in the test and validation sets.
 
+1.link address.txt is the download link for CE5-DET.
+2.ultralytics-main is the code zip for SPD-YOLO via ultralytics.
